@@ -1,5 +1,7 @@
 {
   "name": "Human Token",
   "symbol": "HUMN",
-  "image": "https://raw.githubusercontent.com/soufianeW/HUMN/main/logoh.png"
+  "image": "https://raw.githubusercontent.com/soufianeW/HUMN/main/logoh.png",
+  "uri": "https://raw.githubusercontent.com/soufianeW/HUMN/main/logoh.png",
+  "decimals": 9
 }
